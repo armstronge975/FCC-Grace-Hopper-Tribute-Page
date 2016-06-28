@@ -1,0 +1,27 @@
+body {
+  margin: 5em;
+  font-family: 'Josefin Sans', sans serif;
+  background-color: turquoise;
+}
+
+.white-block {
+  background-color: white;
+}
+
+#caption {
+  padding: 8px;
+}
+
+
+/* found on https://www.css-tricks.com/examples/hrs/ */
+
+hr {
+  border: 0;
+  height: 3px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+p.quote {
+  font-size: 30px;
+  margin-top: 3em;
+}
